@@ -1,5 +1,11 @@
 # shopify-api-graphql-client
 
+## 2.0.0
+
+### Major Changes
+
+- 0f98af8: change the shopify api version to latest
+
 ## 1.0.2
 
 ### Patch Changes
