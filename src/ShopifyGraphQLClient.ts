@@ -13,7 +13,7 @@ export class ShopifyGraphQLClient {
   constructor(
     shopName: string,
     accessToken: string,
-    apiVersion: string = '2023-10',
+    apiVersion: string = '2024-10',
   ) {
     if (!shopName || !accessToken) {
       throw new Error('Both shopName and accessToken are required');
